@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevNomad17
 - 👀 I’m interested in exploring enticing ideas
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java backend development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python data science projects
 - 📫 How to reach me ... ondrej17@gmail.com
 
 <!---
